@@ -1,3 +1,18 @@
-## 🖼🤖 Building generative AI systems
+## Projects
 
-🐦 Follow us! [Martin Muller](https://twitter.com/marmuel_) - [Florian Laurent](https://twitter.com/MasterScrat)
+### This Food Does Not Exist
+
+Training StyleGAN2 on TPUs in JAX
+
+https://nyx-ai.github.io/stylegan2-flax-tpu/
+
+### Nyx.gallery
+
+AI-generated photorealistic images
+
+https://nyx.gallery/
+
+## Follow us
+- [🐦 Twitter](https://twitter.com/NyxAI_Lab)
+- [👨‍💼 LinkedIn](https://www.linkedin.com/company/nyxai)
+- [📷 Instagram](https://www.instagram.com/NyxAI_Lab)
